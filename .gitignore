@@ -1862,3 +1862,8 @@ immich-app/postgres/pg_wal/00000001000000000000000F
 immich-app/postgres/pg_wal/000000010000000000000010
 immich-app/postgres/pg_wal/000000010000000000000011
 docker/example.env
+docker/postgres/base/1/112
+/docker/postgres/base
+/docker/postgres
+/docker/Volumes
+/immich-app/postgres
