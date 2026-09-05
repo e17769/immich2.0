@@ -1852,3 +1852,13 @@ immich-app/postgres/postgresql.conf
 immich-app/postgres/postgresql.auto.conf
 immich-app/postgres/global/pg_internal.init
 immich-app/postgres/base/16384/pg_internal.init
+docker/example.env
+immich-app/postgres/pg_wal/00000001000000000000000A
+immich-app/postgres/pg_wal/00000001000000000000000B
+immich-app/postgres/pg_wal/00000001000000000000000C
+immich-app/postgres/pg_wal/00000001000000000000000D
+immich-app/postgres/pg_wal/00000001000000000000000E
+immich-app/postgres/pg_wal/00000001000000000000000F
+immich-app/postgres/pg_wal/000000010000000000000010
+immich-app/postgres/pg_wal/000000010000000000000011
+docker/example.env
