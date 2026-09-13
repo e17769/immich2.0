@@ -1867,3 +1867,6 @@ docker/postgres/base/1/112
 /docker/postgres
 /docker/Volumes
 /immich-app/postgres
+.devcontainer/server/immich-app/.env
+.devcontainer/server/immich-app/.env-e
+.devcontainer/server/immich-app/docker-compose.yml
